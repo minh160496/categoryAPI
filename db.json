@@ -1,9 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "category": [
+    {
+      "id": 1,
+      "title": "Món bò",
+      "desc": "Các món bò được chế biến tinh tế với hương vị đặc biệt nhất",
+      "thumbail__src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/cate_1.jpg?1677815721948"
+    },
+    {
+      "id": 2,
+      "title": "Món gà",
+      "desc": "Các món gà được chế biến tinh tế với hương vị đặc biệt nhất",
+      "thumbail__src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/cate_2.jpg?1677815721948"
+    },
+    {
+      "id": 3,
+      "title": "Món heo",
+      "desc": "Các món heo được chế biến tinh tế với hương vị đặc biệt nhất",
+      "thumbail__src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/cate_3.jpg?1677815721948"
+    },
+    {
+      "id": 4,
+      "title": "Món cá",
+      "desc": "Các món cá được chế biến tinh tế với hương vị đặc biệt nhất",
+      "thumbail__src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/cate_4.jpg?1677815721948"
+    },
+    {
+      "id": 5,
+      "title": "Các món khác",
+      "desc": "Các món ăn được chế biến tinh tế với hương vị đặc biệt nhất",
+      "thumbail__src": "https://bizweb.dktcdn.net/100/469/097/themes/882205/assets/cate_5.jpg?1677815721948"
+    }
+  ]
 }
